@@ -86,7 +86,8 @@ window.addEventListener('DOMContentLoaded', () => {
     const text = event.target.previousElementSibling.textContent;
     tasks.splice(tasks.indexOf(text), 1);
     saveToLocalStorage();
-    document.location.href = 'index.html';
+    event.target.parentElement.remove();
+    sweetalert('success', 'berhasil', 'data berhasil dihapus');
   }
   
   function searchData(box, param) {
