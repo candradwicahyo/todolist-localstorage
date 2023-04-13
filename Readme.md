@@ -2,7 +2,7 @@
 
 dibuat dengan menggunakan html, css dan javascript.
 
-kode sudah saya sertakan dengan komentar supaya kalian para programmer pemula bisa mempelajarinya.
+kode sudah saya sertakan dengan komentar supaya kalian bisa mempelajarinya.
 
 ## dibuat dengan berikut
 
@@ -24,10 +24,9 @@ kode sudah saya sertakan dengan komentar supaya kalian para programmer pemula bi
 
 ## cara mendownload
 
-buka atau install command prompt di handphone atau laptop/pc kalian, lalu ketikkan kode dibawah ini
+buka command prompt kalian di handphone maupun di laptop/pc, install git lalu ketikkan kode dibawah ini
 
 ```bash 
-pkg install git 
 git clone https://github.com/candradwicahyo/todolist-localstorage.git
 ```
 
